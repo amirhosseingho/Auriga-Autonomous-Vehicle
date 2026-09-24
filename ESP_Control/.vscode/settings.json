@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "cmath": "cpp"
+    },
+    "cmake.sourceDirectory": "D:/Projects/IranOpen2024/Control-esp32/IranOpen_Control-2024/.pio/libdeps/node32s/Unity"
+}
